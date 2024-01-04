@@ -3,7 +3,7 @@
 
 ### Created an environment
 ```
-conda create -p aivenv python=3.8 -y
+conda create -p ivenv python=3.8 -y
 
 ```
 
