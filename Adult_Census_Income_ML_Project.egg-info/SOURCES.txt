@@ -1,6 +1,0 @@
-README.md
-setup.py
-Adult_Census_Income_ML_Project.egg-info/PKG-INFO
-Adult_Census_Income_ML_Project.egg-info/SOURCES.txt
-Adult_Census_Income_ML_Project.egg-info/dependency_links.txt
-Adult_Census_Income_ML_Project.egg-info/top_level.txt
