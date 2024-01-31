@@ -29,5 +29,3 @@ Capital Loss: Capital losses recorded.
 Hours per week: Number of hours worked per week.
 Native Country: Country of origin.
 The target variable is often the "Income" column, which indicates whether the individual earns more than a certain income threshold (e.g., $50,000) per year.
-
-For the most accurate and detailed information, please visit the Kaggle dataset page directly: Adult Census Income Dataset on Kaggle.
